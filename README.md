@@ -47,8 +47,6 @@ Login, cart, favorites, API integration, clean UI, and state management.
 ### 📝 Notes App
 CRUD operations, local storage, animated UI.
 
-> (ضيف روابط المشاريع بعد ما نرتبها)
-
 ---
 
 ## 📊 GitHub Stats
